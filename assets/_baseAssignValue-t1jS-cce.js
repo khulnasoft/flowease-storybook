@@ -1,0 +1,1 @@
+import{g as i}from"./_baseGet-s9jfY1e3.js";var n=function(){try{var e=i(Object,"defineProperty");return e({},"",{}),e}catch{}}();const a=n;function s(e,r,t){r=="__proto__"&&a?a(e,r,{configurable:!0,enumerable:!0,value:t,writable:!0}):e[r]=t}export{s as b,a as d};
